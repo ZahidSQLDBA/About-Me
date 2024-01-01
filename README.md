@@ -25,6 +25,8 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/datascientist007/](https://www.linkedin.com/in/datascientist007/)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
