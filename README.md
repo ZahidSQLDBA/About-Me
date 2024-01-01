@@ -23,11 +23,24 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/datascientist007/](https://www.linkedin.com/in/datascientist007/)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+
+
+
+<p align="left"> <a href="https://twitter.com/zahidsqldba" target="blank"><img src="https://img.shields.io/twitter/follow/zahidsqldba?logo=twitter&style=for-the-badge" alt="zahidsqldba" /></a> </p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zahidsqldba&" alt="zahidsqldba" /></p>
 
 <picture>
   <source
@@ -98,15 +111,4 @@
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
 
-
-
-<p align="left"> <a href="https://twitter.com/zahidsqldba" target="blank"><img src="https://img.shields.io/twitter/follow/zahidsqldba?logo=twitter&style=for-the-badge" alt="zahidsqldba" /></a> </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zahidsqldba&" alt="zahidsqldba" /></p>
